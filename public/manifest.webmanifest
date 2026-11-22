@@ -2,13 +2,13 @@
   "name": "몰려 Mollyo",
   "short_name": "몰려",
   "description": "우리 반, 지금 어디 몰렸어?",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FFFDF2",
   "theme_color": "#FFE600",
   "lang": "ko",
   "icons": [
-    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }
